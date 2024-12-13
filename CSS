@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+h1 {
+font-size: 100px;
+margin: auto auto;
+}
+h1:hover {
+    color: red;
+    width: 70% ;
+    border-color: black;
+    border-width: medium;
+    padding: 5px;
+    border-style: solid;
+    margin: auto auto;
+    font-size: 100px;
+  background-color: white;
+}
+p {
+  border-style: solid;
+  background-color: white;
+}
